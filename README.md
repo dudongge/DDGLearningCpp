@@ -39,3 +39,8 @@
 - 第十九小节:  [19-父类的构造函数](https://github.com/dudongge/DDGLearningCpp/blob/master/C%2B%2BMoc/19-父类的构造函数.md)
 - 第二十小节:  [20-多态](https://github.com/dudongge/DDGLearningCpp/blob/master/C%2B%2BMoc/20-多态.md)
 
+- 第二十一小节:  [21-多继承](https://github.com/dudongge/DDGLearningCpp/blob/master/C%2B%2BMoc/21-多继承.md)
+- 第二十二小节:  [22-多继承-虚函数](https://github.com/dudongge/DDGLearningCpp/blob/master/C%2B%2BMoc/22-多继承-虚函数.md)
+- 第二十三小节:  [23-多继承-同名函数.md](https://github.com/dudongge/DDGLearningCpp/blob/master/C%2B%2BMoc/23-多继承-同名函数.md.md)
+- 第二十四小节:  [24-菱形继承](https://github.com/dudongge/DDGLearningCpp/blob/master/C%2B%2BMoc/24-菱形继承.md)
+- 第二十五小节:  [25-static关键字](https://github.com/dudongge/DDGLearningCpp/blob/master/C%2B%2BMoc/25-static关键字.md)
